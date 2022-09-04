@@ -1,15 +1,10 @@
 img {
-    max-height: 70vh;
-  }
-  h1,
-  li,
-  span {
-    font-family: 'Lobster', cursive;
-  }
-  .footer {
-    position: relative;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-  }
+  width: 300px;
+  height: 300px;
+
+}
+
+
+background metallicgold  {
+  #d4af37
+}
