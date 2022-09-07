@@ -5,9 +5,14 @@ img {
 }
 
 body {
-  background: Café noir #4b3621,metallicgold#FFD700 no-repeat center;
+  background:
   background-size: cover;
+  font-family: system-ui;
+  background: #4b3621,#FFD700,#f06d06 ;
+  color: white;
+  text-align: center;
 }
+
 
 #wall {
   position: relative;
